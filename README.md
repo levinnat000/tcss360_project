@@ -1,6 +1,6 @@
-# tcss360_project_test
+# TCSS360_project
 
-This project is a sample repository for GitHub and Git usage in TCSS360
+This project is a repository for GitHub and Git usage in TCSS360
 
 ## Installation
 Use the following command to install dependencies:
